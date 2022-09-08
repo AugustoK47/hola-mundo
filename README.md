@@ -2,4 +2,6 @@
 
 mi primer repositorio en Git Hub
 
-i love 🐈‍⬛, 🏕️
+i love 🐈‍⬛, 🏕️, 
+
+me gusta el ajedrez
