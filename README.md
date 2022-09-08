@@ -2,4 +2,4 @@
 
 mi primer repositorio en Git Hub
 
-Me gusta el ajedrez
+i love 🐈‍⬛, 🏕️
